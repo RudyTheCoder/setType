@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Sets-Template"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Basic_SetType_Test">
+				<Option output="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Basic_SetType_Test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Basic_SetType_Test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Basic_SetType_Test/fast">
+				<Option output="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Basic_SetType_Test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Basic_SetType_Test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SetType_Tests">
+				<Option output="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/SetType_Tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCATCH_CONFIG_FAST_COMPILE"/>
+					<Add option="-DCATCH_CONFIG_DISABLE_MATCHERS"/>
+					<Add directory="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/unit_tests"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 SetType_Tests"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SetType_Tests/fast">
+				<Option output="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/SetType_Tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCATCH_CONFIG_FAST_COMPILE"/>
+					<Add option="-DCATCH_CONFIG_DISABLE_MATCHERS"/>
+					<Add directory="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/unit_tests"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 SetType_Tests/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="catch2_main">
+				<Option output="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/libcatch2_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/unit_tests"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 catch2_main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="catch2_main/fast">
+				<Option output="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/libcatch2_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/unit_tests"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 catch2_main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/SetDriver.cpp">
+			<Option target="Basic_SetType_Test"/>
+		</Unit>
+		<Unit filename="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/SetType.h">
+			<Option target="Basic_SetType_Test"/>
+			<Option target="SetType_Tests"/>
+		</Unit>
+		<Unit filename="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/CMakeFiles/SetType_Tests.dir/cmake_pch_arm64.hxx">
+			<Option target="SetType_Tests"/>
+		</Unit>
+		<Unit filename="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/CMakeFiles/SetType_Tests.dir/cmake_pch_arm64.hxx.cxx">
+			<Option target="SetType_Tests"/>
+		</Unit>
+		<Unit filename="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/unit_tests/SetType_Tests.cpp">
+			<Option target="SetType_Tests"/>
+		</Unit>
+		<Unit filename="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/unit_tests/catch-main.cpp">
+			<Option target="catch2_main"/>
+		</Unit>
+		<Unit filename="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/unit_tests/unit_util.h">
+			<Option target="SetType_Tests"/>
+		</Unit>
+		<Unit filename="/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

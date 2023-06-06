@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/SetDriver.cpp
+string
+-
+iostream
+-
+SetType.h
+/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/SetType.h
+
+/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/SetType.cpp
+string
+-
+iostream
+-
+SetType.h
+/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/SetType.h
+
+/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/SetType.h
+string
+-
+iostream
+-
+forward_list
+-
+unordered_map
+-
+SetType.cpp
+/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/SetType.cpp
+

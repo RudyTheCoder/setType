@@ -1,0 +1,5 @@
+/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/CMakeFiles/Basic_SetType_Test.dir
+/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/CMakeFiles/SetType_Tests.dir
+/Users/rudyaldana/CLionProjects/assignment-4-settype-Rudy408-1/cmake-build-debug/CMakeFiles/catch2_main.dir
